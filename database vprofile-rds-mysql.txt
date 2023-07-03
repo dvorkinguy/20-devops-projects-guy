@@ -1,0 +1,23 @@
+ActiveMQ Access
+user: 
+notjustdevops
+password 
+X..61
+
+Amazon MQ 
+b-9f2ed735-b145-4fb1-9a80-7a827e3f2583-1.mq.us-east-1.amazonaws.com:5671
+
+
+Amazon RDS Endpoint
+vprofile-rds-mysql.csjyxotgme54.us-east-1.rds.amazonaws.com
+Master username:
+admin
+Master password:
+AwcK3dk0KMn69cxg4wpG
+
+Endpoint
+vprofile-rds-mysql.csjyxotgme54.us-east-1.rds.amazonaws.comCopy
+
+
+Memcached Cluster Elastic Cashe
+vprofile-elastic-casche-svc.0os6cz.cfg.use1.cache.amazonaws.com:11211
